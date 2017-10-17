@@ -1,6 +1,6 @@
 {
   "name": "ticketscoop",
-  "version": "1.2.0",
+  "version": "1.3.0",
   "description": "TicketSwap.com auto buyer script",
   "main": "command.js",
   "engines": {
