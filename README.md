@@ -3,7 +3,7 @@
 
 ### DISCLAIMER
 
-Using the script at the moment will get you banned from Ticketswap (obviously it is against their terms of service). You can still use the code and alter the requests to circumvent detection by Ticketswap (I suspect requests from the script are either detected by the timeout used or by some header value in the HTTP request).
+Using the script will currently get you banned from Ticketswap (obviously it is against their terms of service). You can still use the code in the script but you will have to alter the requests to circumvent detection by Ticketswap (I suspect requests from the script are either detected by the timeout used or by some header value in the HTTP request).
 
 [![Build Status](https://travis-ci.org/matthisk/TicketScoop.svg?branch=master)](https://travis-ci.org/matthisk/TicketScoop)
 
