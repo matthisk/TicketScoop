@@ -1,6 +1,10 @@
 # 🎫 TicketScoop
 **TicketSwap.com auto buyer bot**
 
+### DEPRECATED:
+
+Ticketscoop is deprecated and will not be maintained by me in the future. The code will remain available for reference purposes or for future work by other people.
+
 ### DISCLAIMER
 
 Using the script will currently get you banned from Ticketswap (obviously it is against their terms of service). You can still use the code in the script but you will have to alter the requests to circumvent detection by Ticketswap (I suspect requests from the script are either detected by the timeout used or by some header value in the HTTP request).
